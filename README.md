@@ -1,6 +1,7 @@
 # flutter_signature
 
-A new Flutter plugin.
+check signature sha1 only on android
+app crack
 
 ## Getting Started
 
